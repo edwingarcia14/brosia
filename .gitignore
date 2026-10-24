@@ -1,0 +1,13 @@
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Dependencias de Node y despliegue
+node_modules/
+.vercel/
+
+# Archivos del sistema operativo y logs
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,7 @@
+{
+    "name": "brosia",
+    "version": "1.0.0",
+    "private": true,
+    "type": "commonjs",
+    "description": "Sitio Web para Restaurante de Autor"
+}

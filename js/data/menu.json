@@ -1,0 +1,50 @@
+{
+    "entradas": [
+        {
+            "nombre": "Tostada de Salmón y Aguacate",
+            "descripcion": "Pan de masa madre tostado con finas láminas de salmón ahumado, crema de aguacate y alcaparras.",
+            "precio": "$ 28.000"
+        },
+        {
+            "nombre": "Carpaccio de Res al Trufado",
+            "descripcion": "Corte fino de lomo veteado con aceite de trufa blanca, escamas de parmesano y rúgula fresca.",
+            "precio": "$ 32.000"
+        }
+    ],
+    "fuertes": [
+        {
+            "nombre": "Corte Selecto de Autor",
+            "descripcion": "Medallón de lomo madurado a la parrilla, bañado en reducción de vino tinto y vegetales glaseados.",
+            "precio": "$ 65.000"
+        },
+        {
+            "nombre": "Risotto de Hongos Silvestres",
+            "descripcion": "Arroz arborio cremoso con variedad de setas, mantequilla artesanal y un toque de tomillo.",
+            "precio": "$ 48.000"
+        }
+    ],
+    "cocteles": [
+        {
+            "nombre": "Mixología de la Cava",
+            "descripcion": "Coctelería exclusiva elaborada con licores premium, botánicos frescos y destilados artesanales.",
+            "precio": "$ 30.000"
+        },
+        {
+            "nombre": "Smoked Old Fashioned",
+            "descripcion": "Bourbon ahumado con virutas de roble, bitters artesanales y piel de naranja macerada.",
+            "precio": "$ 34.000"
+        }
+    ],
+    "postres": [
+        {
+            "nombre": "Chocolate Premium & Helado",
+            "descripcion": "Volcán de chocolate al 70% cacao servido con gelato artesanal de vainilla sobre piedra volcánica.",
+            "precio": "$ 22.000"
+        },
+        {
+            "nombre": "Tarta Deconstruida de Frutos Rojos",
+            "descripcion": "Base crocante de almendras, mousse de queso suave y reducción de moras silvestres.",
+            "precio": "$ 20.000"
+        }
+    ]
+}
